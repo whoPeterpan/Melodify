@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "image": "https://placehold.co/150x150/1db954/white?text=Shape+Of+You",
+    "duration": "3:53"
+  },
+  {
+    "id": 2,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "image": "https://placehold.co/150x150/1db954/white?text=Blinding+Lights",
+    "duration": "3:20"
+  },
+  {
+    "id": 3,
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "image": "https://placehold.co/150x150/1db954/white?text=Dance+Monkey",
+    "duration": "3:29"
+  },
+  {
+    "id": 4,
+    "title": "Rockstar",
+    "artist": "Post Malone",
+    "image": "https://placehold.co/150x150/1db954/white?text=Rockstar",
+    "duration": "3:38"
+  },
+  {
+    "id": 5,
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "image": "https://placehold.co/150x150/1db954/white?text=Someone+You+Loved",
+    "duration": "3:02"
+  }
+]
